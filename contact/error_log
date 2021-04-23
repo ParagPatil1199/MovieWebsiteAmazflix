@@ -1,0 +1,8 @@
+[06-Aug-2020 05:34:09 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/zazauakl/public_html/contact/phpmailer/PHPMailerAutoload.php on line 45
+[06-Aug-2020 06:01:00 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/zazauakl/public_html/contact/phpmailer/PHPMailerAutoload.php on line 23
+[06-Aug-2020 06:13:33 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/zazauakl/public_html/contact/phpmailer/PHPMailerAutoload.php on line 23
+[08-Aug-2020 13:47:24 UTC] PHP Notice:  Undefined variable: message in /home/zazauakl/public_html/contact/contact_us.php on line 12
+[08-Aug-2020 14:56:40 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/zazauakl/public_html/contact/contact_us.php on line 15
+[08-Aug-2020 15:32:19 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/zazauakl/public_html/contact/contact_us.php on line 11
+[08-Aug-2020 15:33:22 UTC] PHP Notice:  Undefined variable: to in /home/zazauakl/public_html/contact/contact_us.php on line 14
+[08-Aug-2020 15:34:49 UTC] PHP Parse error:  syntax error, unexpected '$headers' (T_VARIABLE) in /home/zazauakl/public_html/contact/contact_us.php on line 13
